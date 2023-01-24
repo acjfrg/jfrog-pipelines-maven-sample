@@ -1,4 +1,4 @@
-gitProvider: github
+gitProvider: github_alokc
 artifactory: artifactory
 repoPath: acjfrg/jfrog-pipelines-maven-sample
 deployerRepo: maven-local
